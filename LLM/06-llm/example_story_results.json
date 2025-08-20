@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "prompt": "Büyülü ormanın derinliklerinde yaşayan genç büyücü",
+    "genre": "fantastik",
+    "length_target": "medium",
+    "creativity_level": 0.8,
+    "story_text": "Büyülü ormanın derinliklerinde yaşayan genç büyücü Aria, sabahın ilk ışıklarıyla birlikte uyanıp etrafındaki mistik yaratıkların seslerini dinlerdi. Gümüş saçları ay ışığında parlak, yeşil gözleri ise doğanın sırlarını okuyabilirdi. Bu sabah farklıydı - ormanın kalbinden gelen garip bir enerji onu çağırıyordu. Ejder kanından yapılmış asasını alıp, kristal gözyaşlarıyla süslenmiş pelerinini omuzlarına attı. Yaşlı meşe ağaçlarının arasından geçerken, yaprakların fısıldadığı antik büyüleri duyabiliyordu. Ormanın ruhu onu bekliyor, büyük bir macera başlamak üzereydi.",
+    "full_text": "Bu bir fantastik hikayesidir. Büyülü ormanın derinliklerinde yaşayan genç büyücü Aria, sabahın ilk ışıklarıyla birlikte uyanıp etrafındaki mistik yaratıkların seslerini dinlerdi. Gümüş saçları ay ışığında parlak, yeşil gözleri ise doğanın sırlarını okuyabilirdi. Bu sabah farklıydı - ormanın kalbinden gelen garip bir enerji onu çağırıyordu. Ejder kanından yapılmış asasını alıp, kristal gözyaşlarıyla süslenmiş pelerinini omuzlarına attı. Yaşlı meşe ağaçlarının arasından geçerken, yaprakların fısıldadığı antik büyüleri duyabiliyordu. Ormanın ruhu onu bekliyor, büyük bir macera başlamak üzereydi.",
+    "generation_time": 2.45,
+    "timestamp": "2025-07-31T14:30:22.123456",
+    "analysis": {
+      "word_count": 87,
+      "unique_words": 71,
+      "vocabulary_richness": 0.816,
+      "avg_word_length": 6.2,
+      "sentence_count": 6,
+      "avg_sentence_length": 14.5,
+      "paragraph_count": 1,
+      "readability_score": 45.2,
+      "grade_level": 8.3,
+      "character_mentions": 1,
+      "dialogue_count": 0,
+      "descriptive_elements": 15,
+      "complex_sentences": 8,
+      "story_quality_score": 78.4
+    },
+    "sentiment": {
+      "overall_sentiment": {
+        "label": "POSITIVE",
+        "score": 0.7231
+      },
+      "sentence_sentiments": [
+        {
+          "sentence": "Büyülü ormanın derinliklerinde yaşayan genç büyücü Aria, sabahın ilk ışıklarıyla birlikte uyanıp...",
+          "label": "NEUTRAL",
+          "score": 0.5124
+        },
+        {
+          "sentence": "Gümüş saçları ay ışığında parlak, yeşil gözleri ise doğanın sırlarını okuyabilirdi.",
+          "label": "POSITIVE",
+          "score": 0.8234
+        }
+      ],
+      "sentiment_distribution": {
+        "POSITIVE": 3,
+        "NEUTRAL": 2,
+        "NEGATIVE": 1
+      },
+      "emotional_complexity": 3
+    },
+    "settings": {
+      "max_tokens": 200,
+      "sentences": "6-10"
+    }
+  },
+  {
+    "id": 2,
+    "prompt": "2157 yılında Mars kolonisinde yaşayan bilim insanı",
+    "genre": "bilim_kurgu",
+    "length_target": "short",
+    "creativity_level": 0.6,
+    "story_text": "Dr. Elena Vasquez, Mars Koloni 7'de geçirdiği beşinci yılında çok önemli bir keşif yapmıştı. Kızıl gezegenin yüzeyinin 300 metre altından çıkardığı kristal yapılar, hiç görülmemiş bir yaşam formu barındırıyordu. Hologram laboratuvarında incelediği örnekler, Dünya'daki hiçbir yaşam formuna benzemiyordu. Koloninin diğer bilim insanları ona inanmakta zorlanıyordu.",
+    "full_text": "Bu bir bilim_kurgu hikayesidir. Dr. Elena Vasquez, Mars Koloni 7'de geçirdiği beşinci yılında çok önemli bir keşif yapmıştı. Kızıl gezegenin yüzeyinin 300 metre altından çıkardığı kristal yapılar, hiç görülmemiş bir yaşam formu barındırıyordu. Hologram laboratuvarında incelediği örnekler, Dünya'daki hiçbir yaşam formuna benzemiyordu. Koloninin diğer bilim insanları ona inanmakta zorlanıyordu.",
+    "generation_time": 1.87,
+    "timestamp": "2025-07-31T14:32:15.789012",
+    "analysis": {
+      "word_count": 56,
+      "unique_words": 51,
+      "vocabulary_richness": 0.911,
+      "avg_word_length": 7.1,
+      "sentence_count": 4,
+      "avg_sentence_length": 14.0,
+      "paragraph_count": 1,
+      "readability_score": 38.7,
+      "grade_level": 9.2,
+      "character_mentions": 2,
+      "dialogue_count": 0,
+      "descriptive_elements": 8,
+      "complex_sentences": 3,
+      "story_quality_score": 71.2
+    },
+    "sentiment": {
+      "overall_sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.6892
+      },
+      "sentence_sentiments": [
+        {
+          "sentence": "Dr. Elena Vasquez, Mars Koloni 7'de geçirdiği beşinci yılında çok önemli bir keşif yapmıştı.",
+          "label": "POSITIVE",
+          "score": 0.7456
+        },
+        {
+          "sentence": "Koloninin diğer bilim insanları ona inanmakta zorlanıyordu.",
+          "label": "NEGATIVE",
+          "score": 0.5234
+        }
+      ],
+      "sentiment_distribution": {
+        "POSITIVE": 1,
+        "NEUTRAL": 2,
+        "NEGATIVE": 1
+      },
+      "emotional_complexity": 3
+    },
+    "settings": {
+      "max_tokens": 100,
+      "sentences": "3-5"
+    }
+  },
+  {
+    "id": 3,
+    "prompt": "Küçük kasabadaki kütüphanede tanışan iki yabancı",
+    "genre": "romantik",
+    "length_target": "long",
+    "creativity_level": 1.0,
+    "story_text": "Sonbaharın ilk yağmurunda, Ayşe eski kitapların kokusuyla dolu kütüphanede saklı köşesinde oturmuş, 19. yüzyıl şiirlerini okuyordu. Tam o sırada yanındaki masada birine ait olan şiir defteri düştü yere. Kağıtları toplarken, defteri ona uzatan ellerin ne kadar zarif olduğunu fark etti. Murat, kasabaya yeni taşınmış genç bir şair, onun kitap seçimini takdir ediyormuş. İkisi de aynı yazarları seviyordu - Nazim Hikmet, Cemal Süreya, Turgut Uyar. Haftalarca kütüphanenin sessizliğinde buluştular, kitap önerileri paylaştılar. Murat'ın yazdığı şiirleri okuyan Ayşe, kelimelerin ne kadar güçlü olabileceğini yeniden keşfetti. Sonunda cesaret edip ona ilk şiirini yazmaya karar verdi: 'Sessizlikte buluşan kalpler, kelimelerin dansı...' Bu başlangıç, her ikisi için de yaşamlarının en güzel hikayesinin ilk sayfasıydı.",
+    "full_text": "Bu bir romantik hikayesidir. Sonbaharın ilk yağmurunda, Ayşe eski kitapların kokusuyla dolu kütüphanede saklı köşesinde oturmuş, 19. yüzyıl şiirlerini okuyordu. Tam o sırada yanındaki masada birine ait olan şiir defteri düştü yere. Kağıtları toplarken, defteri ona uzatan ellerin ne kadar zarif olduğunu fark etti. Murat, kasabaya yeni taşınmış genç bir şair, onun kitap seçimini takdir ediyormuş. İkisi de aynı yazarları seviyordu - Nazim Hikmet, Cemal Süreya, Turgut Uyar. Haftalarca kütüphanenin sessizliğinde buluştular, kitap önerileri paylaştılar. Murat'ın yazdığı şiirleri okuyan Ayşe, kelimelerin ne kadar güçlü olabileceğini yeniden keşfetti. Sonunda cesaret edip ona ilk şiirini yazmaya karar verdi: 'Sessizlikte buluşan kalpler, kelimelerin dansı...' Bu başlangıç, her ikisi için de yaşamlarının en güzel hikayesinin ilk sayfasıydı.",
+    "generation_time": 3.21,
+    "timestamp": "2025-07-31T14:34:08.456789",
+    "analysis": {
+      "word_count": 134,
+      "unique_words": 108,
+      "vocabulary_richness": 0.806,
+      "avg_word_length": 6.8,
+      "sentence_count": 9,
+      "avg_sentence_length": 14.9,
+      "paragraph_count": 1,
+      "readability_score": 42.1,
+      "grade_level": 8.7,
+      "character_mentions": 5,
+      "dialogue_count": 1,
+      "descriptive_elements": 18,
+      "complex_sentences": 12,
+      "story_quality_score": 85.3
+    },
+    "sentiment": {
+      "overall_sentiment": {
+        "label": "POSITIVE",
+        "score": 0.8945
+      },
+      "sentence_sentiments": [
+        {
+          "sentence": "Sonbaharın ilk yağmurında, Ayşe eski kitapların kokusuyla dolu kütüphanede saklı köşesinde oturmuş...",
+          "label": "NEUTRAL",
+          "score": 0.4567
+        },
+        {
+          "sentence": "Bu başlangıç, her ikisi için de yaşamlarının en güzel hikayesinin ilk sayfasıydı.",
+          "label": "POSITIVE",
+          "score": 0.9234
+        }
+      ],
+      "sentiment_distribution": {
+        "POSITIVE": 6,
+        "NEUTRAL": 2,
+        "NEGATIVE": 1
+      },
+      "emotional_complexity": 3
+    },
+    "settings": {
+      "max_tokens": 350,
+      "sentences": "11-20"
+    }
+  }
+]

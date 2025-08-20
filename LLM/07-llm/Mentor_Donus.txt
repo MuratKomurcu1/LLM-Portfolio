@@ -1,0 +1,19 @@
+Genel iyileştirme için öneriler:
+
+Kodda hata varsa uyarı vermeli
+Kod karmaşıklık puanı göstermeli
+Security issues boş bile olsa yok yazmalı
+Performans önerileri yazmalı
+Kodun ne yaptığını özetlemeli
+Chat kısmı daha konuşma tabanlı olabilir
+Geçmiş mesajlar session bazlı tutulabilir
+Openai api bağımlılığını azaltmak için ufak bir lokal LLM kullanılabilir
+Şuanda işe yaramayan boş olarak bekleyen dosyalar ve package lar silinmeli
+Bir feedback kısmı eklenebilir
+Log kaydı eklenebilir
+Analysis kısmı daha kullanıcı dostu bir analiz raporu verebilir
+
+Şuanda benim aklımda gelen iyileştirme raporları bunlar kodlarınız genel olarak doğru gözüküyor belki burada sadece
+burada biraz daha openai tabanlı değil de çok küçük bir lokal llm ile ardından bu işe yaramazsa istenilen çıkmazsa 
+open ai ile sorgu yapma ile maliyetten kaçınılabilir. 
+
